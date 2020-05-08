@@ -18,3 +18,11 @@ body {
     font-size: 90%;
     text-indent: 5%;
   }
+
+  forms {
+    text-align: center;
+    font-family: Verdana;
+    font-size: 110%;
+  }
+
+  
